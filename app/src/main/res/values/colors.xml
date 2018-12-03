@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+        <color name="primaryColor">#dadada</color>
+        <color name="primaryLightColor">#c7c7c7</color>
+        <color name="primaryDarkColor">#949494</color>
+        <color name="secondaryColor">#000000</color>
+        <color name="secondaryLightColor">#2c2c2c</color>
+        <color name="secondaryDarkColor">#000000</color>
+        <color name="primaryTextColor">#000000</color>
+        <color name="secondaryTextColor">#f9ff00</color>
+
+    <color name="yellow">#fdbb03</color>
+    <color name="blue">#032dfc</color>
+    <color name="red">#ff0015</color>
+    <color name="white">#fdfdfd</color>
+    <color name="black">#000000</color>
+    <color name="green">#2fff00</color>
+    <color name="gray">#585858</color>
+
+    <integer-array name="colors_scenes">
+        <item>@color/black</item>
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/white</item>
+        <item>@color/gray</item>
+        <item>@color/colorAccent</item>
+
+    </integer-array>
+
+</resources>

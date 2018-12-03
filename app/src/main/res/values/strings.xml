@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LIGHTME</string>
+    <string name="new_scene">Nueva Escena</string>
+    <string name="my_scenes">Mis escenas</string>
+    <string name="connect">Conectar</string>
+    <string name="title_activity_connect">Connect</string>
+    <string name="user_manual">Manual de Usuario</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="update_button">Editar</string>
+    <string name="new_photo">Nueva Foto</string>
+    <string name="new_disp">Nuevo dispositivo</string>
+    <string name="connected_devices">Dispositivos Conectados</string>
+    <string name="hint_new_scene">Introduce un nombre</string>
+    <string-array name="init_scenes">
+        <item>Salon</item>
+        <item>Terraza</item>
+        <item>Jardin</item>
+        <item>Cocina</item>
+        <item>Baño</item>
+        <item>Entrada</item>
+        <item>Habitacion</item>
+        <item>Cuadros</item>
+    </string-array>
+    <string name="title_activity_menu_lat">MenuLatActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LIGHTME</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
