@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/secondaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/primaryColor</item>
+        <item name="android:textColorHighlight">@color/secondaryDarkColor</item>
+    </style>
+
+    <style name="my_btn_style">
+        <item name="android:textColor">@color/secondaryColor</item>
+        <item name="android:background">@drawable/btn_no_corners</item>
+        <item name="android:backgroundTint">@color/primaryColor</item>
+        <item name="android:elevation">6dp</item>
+    </style>
+    <style name="my_btn_newphoto_style">
+        <item name="android:textColor">@color/secondaryColor</item>
+        <item name="android:layout_width">@dimen/widt_btn_new</item>
+        <item name="android:layout_height">@dimen/height_btn_new</item>
+        <item name="android:background">@drawable/btn_no_corners</item>
+        <item name="android:backgroundTint">@color/primaryColor</item>
+        <item name="android:elevation">6dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
